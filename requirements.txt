@@ -1,0 +1,8 @@
+opensky-api
+pandas
+folium
+streamlit
+streamlit-folium
+matplotlib
+requests
+schedule
