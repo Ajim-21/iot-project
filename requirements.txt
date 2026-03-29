@@ -1,8 +1,7 @@
-opensky-api
-pandas
-folium
 streamlit
-streamlit-folium
+pandas
 matplotlib
+folium
+streamlit-folium
 requests
 schedule
